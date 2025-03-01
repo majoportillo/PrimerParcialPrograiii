@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\Tareas progra\\PrimerParcial\\SerieII\\PrimerParcial\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6D7CAA12-5C4C-4FCD-9457-5EEDDB4E8A73}|PrimerParcial\\PrimerParcial.csproj|d:\\tareas progra\\primerparcial\\serieii\\primerparcial\\primerparcial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D7CAA12-5C4C-4FCD-9457-5EEDDB4E8A73}|PrimerParcial\\PrimerParcial.csproj|solutionrelative:primerparcial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6D7CAA12-5C4C-4FCD-9457-5EEDDB4E8A73}|PrimerParcial\\PrimerParcial.csproj|d:\\tareas progra\\primerparcial\\serieii\\primerparcial\\primerparcial\\busquedabinaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6D7CAA12-5C4C-4FCD-9457-5EEDDB4E8A73}|PrimerParcial\\PrimerParcial.csproj|solutionrelative:primerparcial\\busquedabinaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D7CAA12-5C4C-4FCD-9457-5EEDDB4E8A73}|PrimerParcial\\PrimerParcial.csproj|d:\\tareas progra\\primerparcial\\serieii\\primerparcial\\primerparcial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D7CAA12-5C4C-4FCD-9457-5EEDDB4E8A73}|PrimerParcial\\PrimerParcial.csproj|solutionrelative:primerparcial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -33,27 +33,31 @@
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "BusquedaBinaria.cs",
               "DocumentMoniker": "D:\\Tareas progra\\PrimerParcial\\SerieII\\PrimerParcial\\PrimerParcial\\BusquedaBinaria.cs",
               "RelativeDocumentMoniker": "PrimerParcial\\BusquedaBinaria.cs",
               "ToolTip": "D:\\Tareas progra\\PrimerParcial\\SerieII\\PrimerParcial\\PrimerParcial\\BusquedaBinaria.cs",
               "RelativeToolTip": "PrimerParcial\\BusquedaBinaria.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-01T13:23:25.5Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Tareas progra\\PrimerParcial\\SerieII\\PrimerParcial\\PrimerParcial\\Program.cs",
               "RelativeDocumentMoniker": "PrimerParcial\\Program.cs",
               "ToolTip": "D:\\Tareas progra\\PrimerParcial\\SerieII\\PrimerParcial\\PrimerParcial\\Program.cs",
               "RelativeToolTip": "PrimerParcial\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-01T13:22:14.984Z",
               "EditorCaption": ""
