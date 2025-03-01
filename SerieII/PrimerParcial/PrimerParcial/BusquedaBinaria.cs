@@ -8,7 +8,7 @@ namespace PrimerParcial
 {
     internal class BusquedaBinaria
     {
-        public static int BusquedaBinaria(int[] arreglo, int objetivo)
+        public static int Buscar(int[] arreglo, int objetivo)
         {
             int izquierda = 0, derecha = arreglo.Length - 1;
             while (izquierda <= derecha)
