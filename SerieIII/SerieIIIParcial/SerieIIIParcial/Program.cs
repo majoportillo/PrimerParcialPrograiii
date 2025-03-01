@@ -7,21 +7,29 @@ namespace SerieIIIParcial
     {
         static void Main(string[] args)
         {
-            Queue<int> cola = new Queue<int>();
-            cola.Enqueue(1);
-            cola.Enqueue(2);
-            cola.Enqueue(3);
+            Queue<string> cola = new Queue<string>();
+            cola.Enqueue("luisa");
+            cola.Enqueue("Ana");
+            cola.Enqueue("Fernando");
+            cola.Enqueue("Pedro");
+            cola.Enqueue("Maria");
 
             Console.WriteLine("Personas en la cola: ");
-            foreach (int item in cola)
+            foreach (string persona in cola)
             {
-                Console.WriteLine(item);
+                Console.WriteLine(persona);
             }
 
             Console.WriteLine("Personas que salen de la cola: ");
             while(cola.Count >0)
             {
-                int persona = cola.Dequeue();
+                string persona = cola.Dequeue();
+                Console.WriteLine(persona);
+            }
+
+            Console.WriteLine("Personas actuales en la cola:");
+            foreach (string persona in cola)
+            {
                 Console.WriteLine(persona);
             }
         }

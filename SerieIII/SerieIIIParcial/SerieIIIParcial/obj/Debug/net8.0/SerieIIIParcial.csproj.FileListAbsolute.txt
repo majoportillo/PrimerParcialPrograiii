@@ -1,0 +1,14 @@
+D:\Tareas progra\PrimerParcial\SerieIII\SerieIIIParcial\SerieIIIParcial\bin\Debug\net8.0\SerieIIIParcial.exe
+D:\Tareas progra\PrimerParcial\SerieIII\SerieIIIParcial\SerieIIIParcial\bin\Debug\net8.0\SerieIIIParcial.deps.json
+D:\Tareas progra\PrimerParcial\SerieIII\SerieIIIParcial\SerieIIIParcial\bin\Debug\net8.0\SerieIIIParcial.runtimeconfig.json
+D:\Tareas progra\PrimerParcial\SerieIII\SerieIIIParcial\SerieIIIParcial\bin\Debug\net8.0\SerieIIIParcial.dll
+D:\Tareas progra\PrimerParcial\SerieIII\SerieIIIParcial\SerieIIIParcial\bin\Debug\net8.0\SerieIIIParcial.pdb
+D:\Tareas progra\PrimerParcial\SerieIII\SerieIIIParcial\SerieIIIParcial\obj\Debug\net8.0\SerieIIIParcial.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tareas progra\PrimerParcial\SerieIII\SerieIIIParcial\SerieIIIParcial\obj\Debug\net8.0\SerieIIIParcial.AssemblyInfoInputs.cache
+D:\Tareas progra\PrimerParcial\SerieIII\SerieIIIParcial\SerieIIIParcial\obj\Debug\net8.0\SerieIIIParcial.AssemblyInfo.cs
+D:\Tareas progra\PrimerParcial\SerieIII\SerieIIIParcial\SerieIIIParcial\obj\Debug\net8.0\SerieIIIParcial.csproj.CoreCompileInputs.cache
+D:\Tareas progra\PrimerParcial\SerieIII\SerieIIIParcial\SerieIIIParcial\obj\Debug\net8.0\SerieIIIParcial.dll
+D:\Tareas progra\PrimerParcial\SerieIII\SerieIIIParcial\SerieIIIParcial\obj\Debug\net8.0\refint\SerieIIIParcial.dll
+D:\Tareas progra\PrimerParcial\SerieIII\SerieIIIParcial\SerieIIIParcial\obj\Debug\net8.0\SerieIIIParcial.pdb
+D:\Tareas progra\PrimerParcial\SerieIII\SerieIIIParcial\SerieIIIParcial\obj\Debug\net8.0\SerieIIIParcial.genruntimeconfig.cache
+D:\Tareas progra\PrimerParcial\SerieIII\SerieIIIParcial\SerieIIIParcial\obj\Debug\net8.0\ref\SerieIIIParcial.dll
